@@ -1,0 +1,20 @@
+{
+  "name": "ageratio",
+  "version": "1.0.0",
+  "description": "Age ratio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarstanSoler/AgeRatio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarstanSoler/AgeRatio/issues"
+  },
+  "homepage": "https://github.com/SarstanSoler/AgeRatio#readme"
+}
